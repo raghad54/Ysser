@@ -1,0 +1,6 @@
+module Pods_YasserHamethone_YasserHamethoneUITests {
+  umbrella header "Pods-YasserHamethone-YasserHamethoneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

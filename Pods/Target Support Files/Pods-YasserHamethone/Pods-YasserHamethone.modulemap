@@ -1,0 +1,6 @@
+module Pods_YasserHamethone {
+  umbrella header "Pods-YasserHamethone-umbrella.h"
+
+  export *
+  module * { export * }
+}
